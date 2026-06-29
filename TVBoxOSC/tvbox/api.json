@@ -386,28 +386,6 @@
 			"type": 3,
 			"api": "https://xn--fjq53n.xyz/Ting/yinyue/网易云音乐1.py"
 		},
-       {
-            "key": "007吃瓜",
-            "name": "007吃瓜.py",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "api": "./007吃瓜.py",
-            "order_num": 5,
-            "ext": ""
-        },
-		{
-            "key": "51吃瓜",
-            "name": "51吃瓜.py",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "api": "./51吃瓜.py",
-            "order_num": 5,
-            "ext": ""
-        },
 	{
       "key": "*AIvin",
       "name": "🐬AIvin｜🔞",
